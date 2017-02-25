@@ -1,0 +1,1 @@
+Implementing [Character-level Convolutional Networks for Text Classification (Xiang Zhang, Junbo Zhao, Yann LeCun)](https://arxiv.org/abs/1509.01626) in Pytorch!
